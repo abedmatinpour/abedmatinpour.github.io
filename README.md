@@ -4,7 +4,7 @@ A modern, SEO-optimized, multi-page GitHub Pages website showcasing academic ach
 
 ## 🌐 Live Website
 
-Your website will be available at: `https://abedmazin25.github.io`
+Your website will be available at: `https://abedmatinpour.github.io`
 
 ## ✨ Features Overview
 
